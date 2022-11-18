@@ -1,0 +1,11 @@
+.Board {
+	margin: 0 auto;
+	display: flex;
+	flex-wrap: wrap;
+	align-self: center;
+	position: relative;
+}
+
+tbody {
+	margin: 0 auto;
+}
